@@ -1,0 +1,261 @@
+[
+    {
+      "id": 1,
+      "category": "Laptop",
+      "title": "Dell Inspiron 15",
+      "price": 750,
+      "image": "https://i.ibb.co.com/B44NMNH/lalptop1.webp",
+      "description": "Dell Inspiron 15 offers a sleek design with powerful performance. Its 15.6-inch Full HD display provides crystal-clear visuals, while the Intel Core i5 processor ensures smooth multitasking. With 8GB RAM and 512GB SSD, it delivers fast data access. Perfect for work, entertainment, and everyday use.",
+      "specifications": [
+        "15.6-inch Full HD display",
+        "Intel Core i5 11th Gen",
+        "8GB RAM",
+        "512GB SSD",
+        "Windows 11"
+      ],
+      "rating": 4.5
+    },
+    {
+      "id": 2,
+      "category": "Laptop",
+      "title": "MSI Gaming Laptop",
+      "price": 1400,
+      "image": "https://i.ibb.co.com/vqcTGKG/laptop2.webp",
+      "description": "Dell Inspiron 15 offers a sleek design with powerful performance. Its 15.6-inch Full HD display provides crystal-clear visuals, while the Intel Core i5 processor ensures smooth multitasking. With 8GB RAM and 512GB SSD, it delivers fast data access. Perfect for work, entertainment, and everyday use.",
+      "specifications": [
+        "13.3-inch Retina display",
+        "Apple M2 chip",
+        "8GB Unified Memory",
+        "256GB SSD",
+        "macOS Ventura"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 3,
+      "category": "Laptop",
+      "title": "HP 14' inch Laptop",
+      "price": 1500,
+      "image": "https://i.ibb.co.com/zhFLYXG/laptop3.webp",
+      "description": "Dell Inspiron 15 offers a sleek design with powerful performance. Its 15.6-inch Full HD display provides crystal-clear visuals, while the Intel Core i5 processor ensures smooth multitasking. With 8GB RAM and 512GB SSD, it delivers fast data access. Perfect for work, entertainment, and everyday use.",
+      "specifications": [
+        "13.3-inch Retina display",
+        "Apple M2 chip",
+        "8GB Unified Memory",
+        "256GB SSD",
+        "macOS Ventura"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 4,
+      "category": "Laptop",
+      "title": "MacBook Pro M2 Max",
+      "price": 2000,
+      "image": "https://i.ibb.co.com/kq7jst4/laptop4.jpg",
+      "description": "MacBook Air M2 redefines efficiency and elegance. Featuring the Apple M2 chip, it offers outstanding performance in a lightweight design. The 13.3-inch Retina display brings vivid colors, and its all-day battery life ensures productivity anywhere. Perfect for professionals and creatives on the go.",
+      "specifications": [
+        "13.3-inch Retina display",
+        "Apple M2 chip",
+        "8GB Unified Memory",
+        "256GB SSD",
+        "macOS Ventura"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 5,
+      "category": "Mobile",
+      "title": "Oppo F30 Pro",
+      "price": 999,
+      "image": "https://i.ibb.co.com/dWX7MFn/mobile1.png",
+      "description": "Oppo F30 Pro combines cutting-edge technology with user-friendly features. The 6.1-inch Super Retina XDR display delivers stunning visuals, while the A15 Bionic chip ensures seamless performance. With its dual-camera system and advanced iOS features, it’s perfect for capturing life’s moments and staying connected.",
+      "specifications": [
+        "6.1-inch Super Retina XDR",
+        "A15 Bionic Chip",
+        "128GB Storage",
+        "12MP Dual Cameras",
+        "iOS 17"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 6,
+      "category": "Mobile",
+      "title": "Oppo Note 10",
+      "price": 899,
+      "image": "https://i.ibb.co.com/BfJLFg9/mobile2.png",
+      "description": "Oppo Note 10 combines cutting-edge technology with user-friendly features. The 6.1-inch Super Retina XDR display delivers stunning visuals, while the A15 Bionic chip ensures seamless performance. With its dual-camera system and advanced iOS features, it’s perfect for capturing life’s moments and staying connected.",
+      "specifications": [
+        "6.2-inch Dynamic AMOLED",
+        "Snapdragon 8 Gen 2",
+        "256GB Storage",
+        "50MP Triple Camera",
+        "Android 13"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 7,
+      "category": "Mobile",
+      "title": "iPhone 16 Pro Max",
+      "price": 999,
+      "image": "https://i.ibb.co.com/6ngxPKb/mobile3.jpg",
+      "description": "iPhone 16 pro max combines cutting-edge technology with user-friendly features. The 6.1-inch Super Retina XDR display delivers stunning visuals, while the A15 Bionic chip ensures seamless performance. With its dual-camera system and advanced iOS features, it’s perfect for capturing life’s moments and staying connected.",
+      "specifications": [
+        "6.1-inch Super Retina XDR",
+        "A15 Bionic Chip",
+        "128GB Storage",
+        "12MP Dual Cameras",
+        "iOS 17"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 8,
+      "category": "Mobile",
+      "title": "Samsung Galaxy S23 All",
+      "price": 899,
+      "image": "https://i.ibb.co.com/S041PrD/mobile4.jpg",
+      "description": "Samsung S23 combines cutting-edge technology with user-friendly features. The 6.1-inch Super Retina XDR display delivers stunning visuals, while the A15 Bionic chip ensures seamless performance. With its dual-camera system and advanced iOS features, it’s perfect for capturing life’s moments and staying connected.",
+      "specifications": [
+        "6.2-inch Dynamic AMOLED",
+        "Snapdragon 8 Gen 2",
+        "256GB Storage",
+        "50MP Triple Camera",
+        "Android 13"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 9,
+      "category": "Mobile",
+      "title": "Huawei P60 Pro",
+      "price": 999,
+      "image": "https://i.ibb.co.com/vB3DbdV/1713519204klhxv.webp",
+      "description": "Huawei P60 combines cutting-edge technology with user-friendly features. The 6.1-inch Super Retina XDR display delivers stunning visuals, while the A15 Bionic chip ensures seamless performance. With its dual-camera system and advanced iOS features, it’s perfect for capturing life’s moments and staying connected.",
+      "specifications": [
+        "6.1-inch Super Retina XDR",
+        "A15 Bionic Chip",
+        "128GB Storage",
+        "12MP Dual Cameras",
+        "iOS 17"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 10,
+      "category": "Mobile",
+      "title": "Huawei Tri Fold",
+      "price": 899,
+      "image": "https://i.ibb.co.com/jM4sw4F/huawei-unveils-triple-folding-phone.jpg",
+      "description": "Huawei Tri Fold combines cutting-edge technology with user-friendly features. The 6.1-inch Super Retina XDR display delivers stunning visuals, while the A15 Bionic chip ensures seamless performance. With its dual-camera system and advanced iOS features, it’s perfect for capturing life’s moments and staying connected.",
+      "specifications": [
+        "6.2-inch Dynamic AMOLED",
+        "Snapdragon 8 Gen 2",
+        "256GB Storage",
+        "50MP Triple Camera",
+        "Android 13"
+      ],
+      "rating": 4.6
+    },
+    {
+      "id": 11,
+      "category": "Accessories",
+      "title": "Headphone serise one",
+      "price": 60,
+      "image": "https://i.ibb.co.com/kDjbtFN/headphone1.png",
+      "description": "Logitech MX Master 3S redefines precision and productivity. Its ergonomic design ensures comfort during extended use. With advanced Bluetooth connectivity and a 4000 DPI sensor, it works on any surface. The rechargeable battery lasts weeks, making it a top choice for professionals.",
+      "specifications": [
+        "20,000mAh Capacity",
+        "USB-C PD Charging",
+        "Fast Charge 3.0",
+        "Compact Design",
+        "MultiProtect Safety System"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 12,
+      "category": "Accessories",
+      "title": "Logitech MX Master 3S",
+      "price": 100,
+      "image": "https://i.ibb.co.com/3WL9Mm7/headphone2.jpg",
+      "description": "Logitech MX Master 3S redefines precision and productivity. Its ergonomic design ensures comfort during extended use. With advanced Bluetooth connectivity and a 4000 DPI sensor, it works on any surface. The rechargeable battery lasts weeks, making it a top choice for professionals.",
+      "specifications": [
+        "Ergonomic Design",
+        "Fast Scrolling",
+        "Bluetooth Connectivity",
+        "4000 DPI Sensor",
+        "USB-C Rechargeable"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 13,
+      "category": "Accessories",
+      "title": "Logitech MX Master Night",
+      "price": 60,
+      "image": "https://i.ibb.co.com/Y8fv8m9/headphone3.jpg",
+      "description": "Logitech MX Master 3S redefines precision and productivity. Its ergonomic design ensures comfort during extended use. With advanced Bluetooth connectivity and a 4000 DPI sensor, it works on any surface. The rechargeable battery lasts weeks, making it a top choice for professionals.",
+      "specifications": [
+        "20,000mAh Capacity",
+        "USB-C PD Charging",
+        "Fast Charge 3.0",
+        "Compact Design",
+        "MultiProtect Safety System"
+      ],
+      "rating": 4.4
+    },
+    {
+      "id": 14,
+      "category": "Accessories",
+      "title": "Logitech MX ",
+      "price": 100,
+      "image": "https://i.ibb.co.com/Cpy79tK/air1.jpg",
+      "description": "Logitech MX Master 3S redefines precision and productivity. Its ergonomic design ensures comfort during extended use. With advanced Bluetooth connectivity and a 4000 DPI sensor, it works on any surface. The rechargeable battery lasts weeks, making it a top choice for professionals.",
+      "specifications": [
+        "Ergonomic Design",
+        "Fast Scrolling",
+        "Bluetooth Connectivity",
+        "4000 DPI Sensor",
+        "USB-C Rechargeable"
+      ],
+      "rating": 4.7
+    },
+    {
+      "id": 15,
+      "category": "Smart Watch",
+      "title": "Apple Watch Series 8",
+      "price": 429,
+      "image": "https://i.ibb.co.com/mTFHW2N/smart1.jpg",
+      "description": "Samsung Galaxy Watch 5 is a perfect blend of style and functionality. Its 1.4-inch AMOLED display offers sharp visuals, while the BioActive Sensor ensures comprehensive health tracking. With GPS and 5 ATM water resistance, it’s built for all adventures.",
+      "specifications": [
+        "1.9-inch Retina Display",
+        "ECG Monitoring",
+        "Fall Detection",
+        "18-Hour Battery Life",
+        "watchOS 9"
+      ],
+      "rating": 4.8
+    },
+    {
+      "id": 16,
+      "category": "Smart Watch",
+      "title": "Samsung Galaxy Watch 5",
+      "price": 299,
+      "image": "https://i.ibb.co.com/StPDGzD/smart2.webp",
+      "description": "Samsung Galaxy Watch 5 is a perfect blend of style and functionality. Its 1.4-inch AMOLED display offers sharp visuals, while the BioActive Sensor ensures comprehensive health tracking. With GPS and 5 ATM water resistance, it’s built for all adventures.",
+      "specifications": [
+        "1.4-inch AMOLED",
+        "BioActive Sensor",
+        "GPS Tracking",
+        "5 ATM Water Resistance",
+        "Wear OS 3.5"
+      ],
+      "rating": 4.6
+    }
+   
+    
+  ]
+  
